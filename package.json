@@ -36,7 +36,7 @@
     "lint:typings:fix": "tslint --fix typings/index.d.ts"
   },
   "dependencies": {
-    "http-cookie-agent": "^6.0.5",
+    "http-cookie-agent": "^5.0.4",
     "m3u8stream": "^0.8.6",
     "miniget": "^4.2.3",
     "sax": "^1.4.1",
